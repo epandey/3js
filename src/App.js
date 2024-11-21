@@ -4,7 +4,6 @@ import { OrbitControls, Environment } from '@react-three/drei';
 import MyAvatar from './components/MyAvatar';
 import OrbitingIcons from './components/OrbitingIcons';
 import Background from './components/Background';
-import ContactPage from './components/ContactPage';
 import Modal from './components/Modal';
 import ChatBot from './components/ChatBot'; // Import the enhanced ChatBot component
 import MandalaBackground from './components/Mandala';

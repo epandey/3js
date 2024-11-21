@@ -5,6 +5,7 @@
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
+    "@mediapipe/tasks-vision": "^0.10.18",
     "@mui/material": "^6.1.6",
     "@react-three/drei": "^9.115.0",
     "@react-three/fiber": "^8.17.10",
@@ -20,6 +21,7 @@
     "express": "^4.21.1",
     "nodemailer": "^6.9.16",
     "react": "^18.3.1",
+    "react-app": "^1.1.2",
     "react-dom": "^18.3.1",
     "react-scripts": "^5.0.1",
     "react-tsparticles": "^2.12.2",
@@ -30,7 +32,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "ESLINT_NO_DEV_ERRORS=true react-scripts build",
-
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
